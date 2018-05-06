@@ -1,0 +1,5 @@
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/bin/Release/CinemaTicket.exe
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/obj/x86/Release/CinemaTicket.csproj.CoreCompileInputs.cache
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/obj/x86/Release/CinemaTicket.exe
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/bin/Release/MySql.Data.dll
+/Users/charch/Desktop/Xiangyu/CinemaTicket/CinemaTicket/obj/x86/Release/CinemaTicket.csprojResolveAssemblyReference.cache

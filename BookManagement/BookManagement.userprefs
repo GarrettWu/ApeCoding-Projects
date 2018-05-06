@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E7D57BCE-CE4E-4F14-AEFA-D0958B79B8C7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookManagement/BookManagement.cs">
+    <Files>
+      <File FileName="BookManagement/BookManagement.cs" Line="33" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BookManagement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

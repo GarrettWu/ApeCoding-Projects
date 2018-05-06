@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{87D224A8-DFB8-4E53-81F1-0A7027EC30C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommunityShare/CommunityShare.cs">
+    <Files>
+      <File FileName="CommunityShare/CommunityShare.cs" Line="122" Column="10" />
+      <File FileName="CommunityShare/MySqlHelper.cs" Line="14" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CommunityShare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

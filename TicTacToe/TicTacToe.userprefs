@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{58987543-C36C-43D0-A7E4-C9B9F773E051}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/MySqlHelper.cs">
+    <Files>
+      <File FileName="test/Program.cs" Line="11" Column="40" />
+      <File FileName="test/MySqlHelper.cs" Line="14" Column="46" />
+      <File FileName="TicTacToe/TicTacToe.cs" Line="150" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

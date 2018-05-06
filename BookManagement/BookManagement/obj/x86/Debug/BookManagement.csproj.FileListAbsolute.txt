@@ -1,0 +1,7 @@
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/bin/Debug/BookManagement.exe
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/bin/Debug/BookManagement.pdb
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/obj/x86/Debug/BookManagement.csproj.CoreCompileInputs.cache
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/obj/x86/Debug/BookManagement.exe
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/obj/x86/Debug/BookManagement.pdb
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/bin/Debug/MySql.Data.dll
+/Users/charch/Desktop/Xiangyu/BookManagement/BookManagement/obj/x86/Debug/BookManagement.csprojResolveAssemblyReference.cache

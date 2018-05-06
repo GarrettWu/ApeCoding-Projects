@@ -1,0 +1,7 @@
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/obj/x86/Debug/CommunityShare.csproj.CoreCompileInputs.cache
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/bin/Debug/CommunityShare.exe
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/bin/Debug/CommunityShare.pdb
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/obj/x86/Debug/CommunityShare.exe
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/obj/x86/Debug/CommunityShare.pdb
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/bin/Debug/MySql.Data.dll
+/Users/charch/Desktop/Xiangyu/CommunityShare/CommunityShare/obj/x86/Debug/CommunityShare.csprojResolveAssemblyReference.cache

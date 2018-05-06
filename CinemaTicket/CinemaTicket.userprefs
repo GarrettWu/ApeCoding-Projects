@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A6ACFE93-E587-44E9-8D40-5AAB0CAE7E5D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CinemaTicket/CinemaTicket.cs">
+    <Files>
+      <File FileName="CinemaTicket/CinemaTicket.cs" Line="114" Column="20" />
+      <File FileName="CinemaTicket/MySqlHelper.cs" Line="154" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CinemaTicket PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,7 @@
+/Users/charch/Desktop/Xiangyu/TicTacToe/TicTacToe/bin/Debug/TicTacToe.exe
+/Users/charch/Desktop/Xiangyu/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
+/Users/charch/Desktop/Xiangyu/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/charch/Desktop/Xiangyu/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.exe
+/Users/charch/Desktop/Xiangyu/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.pdb
+/Users/charch/Desktop/Xiangyu/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.csprojResolveAssemblyReference.cache
+/Users/charch/Desktop/Xiangyu/TicTacToe/TicTacToe/bin/Debug/MySql.Data.dll

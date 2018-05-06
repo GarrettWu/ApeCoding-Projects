@@ -1,0 +1,6 @@
+/Users/charch/Desktop/Xiangyu/TicTacToe/test/obj/x86/Debug/test.csproj.CoreCompileInputs.cache
+/Users/charch/Desktop/Xiangyu/TicTacToe/test/bin/Debug/test.exe
+/Users/charch/Desktop/Xiangyu/TicTacToe/test/bin/Debug/test.pdb
+/Users/charch/Desktop/Xiangyu/TicTacToe/test/bin/Debug/MySql.Data.dll
+/Users/charch/Desktop/Xiangyu/TicTacToe/test/obj/x86/Debug/test.exe
+/Users/charch/Desktop/Xiangyu/TicTacToe/test/obj/x86/Debug/test.pdb
